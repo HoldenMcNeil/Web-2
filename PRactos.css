@@ -1,0 +1,44 @@
+body {
+    background: tan
+}
+h1 {
+    text-align: center;
+    color: peru;
+}
+#one {
+    text-align: center;
+    background: url(man.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  200px;
+    height: 200px;
+    border: 2px solid brown;
+    border-style: ridge;
+    margin-left: 200px;
+}
+#two {
+    background: url(hi.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  200px;
+    height: 200px;
+    border: 2px solid brown;
+    border-style: ridge;
+    margin: 20px;
+}
+#tree {
+    background: url(gh.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  200px;
+    height: 200px;
+    border: 2px solid brown;
+    border-style: ridge;
+    margin: 20px;
+}
+#five {
+    background: url(kf.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  200px;
+    height: 200px;
+    border: 2px solid brown;
+    border-style: ridge;
+    margin: 20px;
+}
